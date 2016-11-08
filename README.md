@@ -1,4 +1,9 @@
-# Wekan
+# Wekan-Hybrid
+
+A fully brandable Kanban-board !
+
+
+
 
 [![Join the chat][gitter_badge]][gitter_chat]
 
