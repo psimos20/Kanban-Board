@@ -46,7 +46,7 @@ class Exporter {
     // we do not want to retrieve boardId in related elements
     const noBoardId = {fields: {boardId: 0}};
     const result = {
-      _format: 'wekan-board-1.0.0',
+      _format: 'tomtask-board-1.0.0',
     };
     _.extend(result, Boards.findOne(this._boardId, {fields: {stars: 0}}));
     result.lists = Lists.find(byBoard, noBoardId).fetch();
