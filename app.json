@@ -13,7 +13,7 @@
     }
   },
   "addons": [
-    "mongolab",
+    "objectrocket",
     "logentries"
   ]
 }
