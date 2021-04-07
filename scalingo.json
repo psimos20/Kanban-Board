@@ -1,7 +1,7 @@
 {
   "name": "wekan",
   "description": "The open-source Trello-like kanban (build with Meteor)",
-  "repository": "https://github.com/wekan/wekan/",
+  "repository": "https://github.com/develpco/Kanban-Board/",
   "logo": "https://raw.githubusercontent.com/wekan/wekan/master/meta/icons/wekan-150.png",
   "website": "https://wekan.io",
   "addons": ["scalingo-mongodb"]
